@@ -11,7 +11,7 @@
 
 	<parent>
 		<groupId>io.ezstore</groupId>
-		<artifactId>parent</artifactId>
+		<artifactId>ezstore-parent</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
 

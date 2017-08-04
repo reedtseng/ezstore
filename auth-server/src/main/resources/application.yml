@@ -1,0 +1,4 @@
+ezstore.auth.jwt:
+  key-store: ezstore-auth.jks
+  key-store-password: EZSTOREPASS
+  key-alias: ezstore-secret
